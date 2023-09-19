@@ -6,3 +6,5 @@ Modifie sur ton ordinateur le fichier README en ajoutant une section appelée ac
 En utilisant le terminal, envoie (push) tes modifications vers le dépôt distant.
 Partage le lien du dépôt distant en solution à ce défi.
 🧐 Critères de validation :
+
+j'ai reussi à faire clone, pull et je m'apprête à faire push.
